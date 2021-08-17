@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<Import Project="..\common.props" />
+
+	<PropertyGroup>
+		<PackageId>Airslip</PackageId>
+		<Company>Airslip</Company>
+		<Authors>Airslip</Authors>
+		<PackageProjectUrl>https://github.com/airslip-ltd/airslip</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/airslip-ltd/airslip</RepositoryUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+		<Version>0.0.1</Version>
+	</PropertyGroup>
+
+</Project>

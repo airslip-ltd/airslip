@@ -1,0 +1,21 @@
+﻿<Project>
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+		<NetVersion>5.0.*</NetVersion>
+		<Nullable>enable</Nullable>
+		<TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+		<CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
+		<LangVersion>latest</LangVersion>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<Coverlet>3.1.0</Coverlet>
+		<FluentAssertions>6.0.0</FluentAssertions>
+		<Moq>4.16.1</Moq>
+		<NetTestSdk>16.11.0</NetTestSdk>
+		<Xunit>2.4.1</Xunit>
+		<XunitRunner>2.4.3</XunitRunner>
+	</PropertyGroup>
+
+</Project>
