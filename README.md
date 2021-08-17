@@ -1,2 +1,2 @@
 # airslip
-This repository enables you to start receiving smart receipts.
+A public repository so retailers can integrate into Airslip and check out any demos.
